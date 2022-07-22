@@ -1,0 +1,15 @@
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/bin/Debug/net6.0/Freeday3
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/bin/Debug/net6.0/Freeday3.deps.json
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/bin/Debug/net6.0/Freeday3.runtimeconfig.json
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/bin/Debug/net6.0/Freeday3.dll
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/bin/Debug/net6.0/Freeday3.pdb
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/Freeday3.csproj.AssemblyReference.cache
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/Freeday3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/Freeday3.AssemblyInfoInputs.cache
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/Freeday3.AssemblyInfo.cs
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/Freeday3.csproj.CoreCompileInputs.cache
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/Freeday3.dll
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/refint/Freeday3.dll
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/Freeday3.pdb
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/Freeday3.genruntimeconfig.cache
+/Users/Sergey/Documents/Учеба С#/Freeday/Freeday3/obj/Debug/net6.0/ref/Freeday3.dll
